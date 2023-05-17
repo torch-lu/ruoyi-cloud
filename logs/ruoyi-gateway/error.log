@@ -1,0 +1,62 @@
+18:52:20.383 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - [report,40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+18:53:44.158 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - [report,40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+18:55:41.439 [reactor-http-nio-9] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/,异常信息:404 NOT_FOUND
+18:55:41.602 [reactor-http-nio-9] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/favicon.ico,异常信息:404 NOT_FOUND
+19:00:30.558 [boundedElastic-8] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:00:42.399 [boundedElastic-9] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/v2/api-docs,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:00:46.496 [boundedElastic-9] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:01:33.453 [boundedElastic-12] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:02:19.903 [boundedElastic-6] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:02:39.319 [boundedElastic-7] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:03:00.682 [boundedElastic-7] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/db/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:03:08.083 [boundedElastic-11] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/db/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:08:20.909 [boundedElastic-7] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:09:05.949 [boundedElastic-3] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:10:07.919 [boundedElastic-14] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:11:10.054 [boundedElastic-8] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:11:54.610 [boundedElastic-5] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:13:10.624 [boundedElastic-2] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:13:14.731 [boundedElastic-2] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:13:16.302 [boundedElastic-2] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:13:16.632 [boundedElastic-2] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:13:17.141 [boundedElastic-2] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:13:17.423 [boundedElastic-2] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:13:18.039 [boundedElastic-2] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:13:18.292 [boundedElastic-2] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:13:18.405 [boundedElastic-2] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:13:18.613 [boundedElastic-2] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:13:18.809 [boundedElastic-2] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:16:18.133 [boundedElastic-1] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:16:19.860 [boundedElastic-1] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:16:24.292 [boundedElastic-1] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:16:27.233 [boundedElastic-1] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:16:46.276 [boundedElastic-11] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/v2/api-docs,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
+19:18:08.376 [reactor-http-nio-15] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/,异常信息:404 NOT_FOUND
+19:18:08.780 [reactor-http-nio-15] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/favicon.ico,异常信息:404 NOT_FOUND
+19:25:28.194 [boundedElastic-3] ERROR c.r.g.h.GatewayExceptionHandler - [handle,52] - [网关异常处理]请求路径:/code/gen/list,异常信息:503 SERVICE_UNAVAILABLE "Unable to find instance for ruoyi-gen"
